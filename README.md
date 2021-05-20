@@ -1,5 +1,7 @@
 # Otto DIY
 
+An interactive Bluetooth control humanoid robot that can react and perform as commanded. It is developed with C code in the Arduino Nano microcontroller.
+
 This Repository have all open source files for Otto DIY an interactive robot that anyone can make!
 Otto walks, dances, makes sounds and avoids obstacles.
 Is completely and truly open source, Arduino compatible, programmable, 3D printable, once you have all components and tools you will be able to build your own Otto in only 1 hour! 
